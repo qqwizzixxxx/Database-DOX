@@ -26,3 +26,6 @@ Note: Data Bases Only Support ".csv" And ".txt" Filles.
 to edit code you can watch tutorials on YouTube.
 
 Developed By qqwizzixxxx
+
+Databases Pack Will Be In Telegram
+https://t.me/+4KwBRFdA9s1iN2Yy
