@@ -21,7 +21,7 @@
 
 # Other
 
-To Add Data Bases You Need Open Folder "Базы" And Look At Last Base Last Base Name Will Be "Data69", Rename Your Base To "Data70", If "Data70" To ""
+To Add Data Bases You Need Open Folder "Базы" And Look At Last Base Last Base Name Will Be "Data69", Rename Your Base To "Data70", If "Data70" To "71"
 Note: Data Bases Only Support ".csv" And ".txt" Filles.
 to edit code you can watch tutorials on YouTube.
 
