@@ -1,6 +1,6 @@
 # Database Tool
 <p align="center">
-  <img src="https://img.shields.io/github/v/release/qqwizzixxxx/Database-DOX?label=Version&color=a80505">
+  <img src="https://img.shields.io/github/release/qqwizzixxxx/Database-DOX?label=Version&color=a80505">
   <img src="https://img.shields.io/github/stars/qqwizzixxxx/Database-DOX?style=flat&label=Stars&color=a80505">
   <img src="https://img.shields.io/github/repo-size/qqwizzixxxx/Database-DOX?label=Size&color=a80505">
   <img src="https://img.shields.io/github/languages/top/qqwizzixxxx/Database-DOX?color=a80505">
