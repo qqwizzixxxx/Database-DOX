@@ -11,7 +11,7 @@
 
 1. You Need To Install Python 3.12.3 And Add It To Patch
    
-2. Drag Folder Code To Workspace
+2. Drag Folder "Code" To Workspace
 
 3. Open Fille "Install Modules.bat" And Wait Untill All Will Be Installed
 
