@@ -33,7 +33,9 @@
 
 5. Enjoy Your Tool
 
-# Other
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Overpass&weight=900&size=48&pause=1000&color=0000cd&center=true&vCenter=true&random=true&width=900&lines=Other" />
+</h1>
 
 To Add Data Bases You Need Open Folder "Базы" And Look At Last Base Last Base Name Will Be "Data69", Rename Your Base To "Data70", If "Data70" To "71"
 Note: Data Bases Only Support ".csv" And ".txt" Filles.
