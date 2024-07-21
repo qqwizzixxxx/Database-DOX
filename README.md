@@ -43,5 +43,5 @@ Developed By qqwizzixxxx
 Databases Pack And News Will Be In Telegram
 https://t.me/+4KwBRFdA9s1iN2Yy
 
-Download Link:(2.0)
+Download Link:(2.0):
 Soon
