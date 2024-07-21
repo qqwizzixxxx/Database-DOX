@@ -19,7 +19,9 @@
 3. What Languages Database Tool Uses?
    It Uses A Batch And Python.
 
-# Tutorial How To Install
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Overpass&weight=900&size=48&pause=1000&color=0000cd&center=true&vCenter=true&random=true&width=900&lines=How+To%20+Install?" />
+</h1>
 
 1. You Need To Install Python 3.12.3 And Add It To Patch
    
