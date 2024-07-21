@@ -1,9 +1,9 @@
 # Database Tool
 <p align="center">
-  <img src="https://img.shields.io/github/release/qqwizzixxxx/Database-DOX?label=Version&color=a80505">
-  <img src="https://img.shields.io/github/stars/qqwizzixxxx/Database-DOX?style=flat&label=Stars&color=a80505">
-  <img src="https://img.shields.io/github/repo-size/qqwizzixxxx/Database-DOX?label=Size&color=a80505">
-  <img src="https://img.shields.io/github/languages/top/qqwizzixxxx/Database-DOX?color=a80505">
+  <img src="https://img.shields.io/github/release/qqwizzixxxx/Database-DOX?label=Version&color=0000cd">
+  <img src="https://img.shields.io/github/stars/qqwizzixxxx/Database-DOX?style=flat&label=Stars&color=0000cd">
+  <img src="https://img.shields.io/github/repo-size/qqwizzixxxx/Database-DOX?label=Size&color=0000cd">
+  <img src="https://img.shields.io/github/languages/top/qqwizzixxxx/Database-DOX?color=0000cd">
 
   <p align="center">
     <img src="https://raw.githubusercontent.com/qqwizzixxxx/Database-DOX/main/Interface.png">
