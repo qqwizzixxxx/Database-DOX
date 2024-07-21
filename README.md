@@ -51,4 +51,4 @@ Databases Pack And News Will Be In Telegram
 https://t.me/+4KwBRFdA9s1iN2Yy
 
 Download Link:(2.0):
-Soon
+https://mega.nz/file/oYAEgC7C#Kd-m5A5mNppHHWTgtdV7G5DlJP08pT3e1GjNWxMLZbo
