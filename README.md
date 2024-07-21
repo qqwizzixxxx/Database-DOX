@@ -36,5 +36,5 @@ Developed By qqwizzixxxx
 Databases Pack And News Will Be In Telegram
 https://t.me/+4KwBRFdA9s1iN2Yy
 
-Download Link:(Beta 1.0.0)
-https://mega.nz/file/pJomDA5R#Ts9U7gdJwhbkEnXpdEw1EalbtSFdm6XMvGqRnkZh7-E
+Download Link:(2.0)
+Soon
