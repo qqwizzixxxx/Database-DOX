@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/github/languages/top/qqwizzixxxx/Database-DOX?color=0000cd">
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Overpass&weight=900&size=48&pause=1000&color=0000cd&center=true&vCenter=true&random=true&width=900&lines=Database+Tool%20Name%20+Interface" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Overpass&weight=900&size=48&pause=1000&color=0000cd&center=true&vCenter=true&random=true&width=900&lines=Database+Tool%20+Interface" />
 </h1>
 
   <p align="center">
