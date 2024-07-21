@@ -43,7 +43,10 @@ to edit code you can watch tutorials on YouTube.
 
 Developed By qqwizzixxxx
 
-# Download
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Overpass&weight=900&size=48&pause=1000&color=0000cd&center=true&vCenter=true&random=true&width=900&lines=Download" />
+</h1>
+
 Databases Pack And News Will Be In Telegram
 https://t.me/+4KwBRFdA9s1iN2Yy
 
