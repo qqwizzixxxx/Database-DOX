@@ -1,4 +1,4 @@
-# Database Tool
+# Database Tool[Only Windows]
 <p align="center">
   <img src="https://img.shields.io/github/release/qqwizzixxxx/Database-DOX?label=Version&color=0000cd">
   <img src="https://img.shields.io/github/stars/qqwizzixxxx/Database-DOX?style=flat&label=Stars&color=0000cd">
