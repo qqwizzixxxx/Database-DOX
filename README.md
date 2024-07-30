@@ -13,10 +13,15 @@
     <img src="https://raw.githubusercontent.com/qqwizzixxxx/Database-DOX/main/Interface.png">
     
   1. What Is Database Tool?
+     
   Database Tool Is A Osint  What Uses A Leaked Data Bases To Seach Info About Peoples.
-2. Is Database tool open source?
+  
+3. Is Database tool open source
+
    Yep Its Compeletly Open Source.
-3. What Languages Database Tool Uses?
+   
+4. What Languages Database Tool Uses?
+ 
    It Uses A Batch And Python.
 
 <h1 align="center">
