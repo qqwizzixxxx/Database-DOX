@@ -30,12 +30,12 @@
 
 1. You Need To Install Python 3.12.3 And Add It To Patch
    
-2. Drag Folder "Code" To Workspace
+2. Drag An Installer To Empty Folder
+   
+3. Just Open It
 
-3. Open Fille "Install Modules.bat" And Wait Untill All Will Be Installed
-
-4. To Open Tool Open Fille "Start Tool.bat"
-
+4. Enter The Key From Telegram Channel
+   
 5. Enjoy Your Tool
 
 <h1 align="center">
@@ -54,6 +54,3 @@ Developed By qqwizzixxxx
 
 Databases Pack And News Will Be In Telegram
 https://t.me/+4KwBRFdA9s1iN2Yy
-
-Download Link:(2.0):
-https://mega.nz/file/oYAEgC7C#Kd-m5A5mNppHHWTgtdV7G5DlJP08pT3e1GjNWxMLZbo
